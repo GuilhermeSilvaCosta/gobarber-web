@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/static/js/main.ffbcbbea.chunk.js",
-    "main.js.map": "/static/js/main.ffbcbbea.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d841a831.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d841a831.js.map",
-    "static/css/2.07a2a3e9.chunk.css": "/static/css/2.07a2a3e9.chunk.css",
-    "static/js/2.6ff7fbde.chunk.js": "/static/js/2.6ff7fbde.chunk.js",
-    "static/js/2.6ff7fbde.chunk.js.map": "/static/js/2.6ff7fbde.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.51db688cd446f43988503ddd10194379.js": "/precache-manifest.51db688cd446f43988503ddd10194379.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.07a2a3e9.chunk.css.map": "/static/css/2.07a2a3e9.chunk.css.map",
-    "static/js/2.6ff7fbde.chunk.js.LICENSE.txt": "/static/js/2.6ff7fbde.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.291b6cc6.svg",
-    "static/media/purple-logo.svg": "/static/media/purple-logo.3276c2f6.svg"
+    "main.js": "/gobarber-web/static/js/main.ffbcbbea.chunk.js",
+    "main.js.map": "/gobarber-web/static/js/main.ffbcbbea.chunk.js.map",
+    "runtime-main.js": "/gobarber-web/static/js/runtime-main.6559f928.js",
+    "runtime-main.js.map": "/gobarber-web/static/js/runtime-main.6559f928.js.map",
+    "static/css/2.07a2a3e9.chunk.css": "/gobarber-web/static/css/2.07a2a3e9.chunk.css",
+    "static/js/2.b95adeb2.chunk.js": "/gobarber-web/static/js/2.b95adeb2.chunk.js",
+    "static/js/2.b95adeb2.chunk.js.map": "/gobarber-web/static/js/2.b95adeb2.chunk.js.map",
+    "index.html": "/gobarber-web/index.html",
+    "precache-manifest.277522f8c0eb041557e46f95d0831610.js": "/gobarber-web/precache-manifest.277522f8c0eb041557e46f95d0831610.js",
+    "service-worker.js": "/gobarber-web/service-worker.js",
+    "static/css/2.07a2a3e9.chunk.css.map": "/gobarber-web/static/css/2.07a2a3e9.chunk.css.map",
+    "static/js/2.b95adeb2.chunk.js.LICENSE.txt": "/gobarber-web/static/js/2.b95adeb2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gobarber-web/static/media/logo.291b6cc6.svg",
+    "static/media/purple-logo.svg": "/gobarber-web/static/media/purple-logo.3276c2f6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d841a831.js",
+    "static/js/runtime-main.6559f928.js",
     "static/css/2.07a2a3e9.chunk.css",
-    "static/js/2.6ff7fbde.chunk.js",
+    "static/js/2.b95adeb2.chunk.js",
     "static/js/main.ffbcbbea.chunk.js"
   ]
 }
