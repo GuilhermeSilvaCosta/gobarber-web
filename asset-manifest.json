@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/gobarber-web/static/js/main.940613b9.chunk.js",
-    "main.js.map": "/gobarber-web/static/js/main.940613b9.chunk.js.map",
+    "main.js": "/gobarber-web/static/js/main.ba5995d4.chunk.js",
+    "main.js.map": "/gobarber-web/static/js/main.ba5995d4.chunk.js.map",
     "runtime-main.js": "/gobarber-web/static/js/runtime-main.6559f928.js",
     "runtime-main.js.map": "/gobarber-web/static/js/runtime-main.6559f928.js.map",
     "static/css/2.07a2a3e9.chunk.css": "/gobarber-web/static/css/2.07a2a3e9.chunk.css",
     "static/js/2.b95adeb2.chunk.js": "/gobarber-web/static/js/2.b95adeb2.chunk.js",
     "static/js/2.b95adeb2.chunk.js.map": "/gobarber-web/static/js/2.b95adeb2.chunk.js.map",
     "index.html": "/gobarber-web/index.html",
-    "precache-manifest.05a216c2e80c6d3cb73273e2f592b4e6.js": "/gobarber-web/precache-manifest.05a216c2e80c6d3cb73273e2f592b4e6.js",
+    "precache-manifest.9d3a3800a649b22344c493e72c866586.js": "/gobarber-web/precache-manifest.9d3a3800a649b22344c493e72c866586.js",
     "service-worker.js": "/gobarber-web/service-worker.js",
     "static/css/2.07a2a3e9.chunk.css.map": "/gobarber-web/static/css/2.07a2a3e9.chunk.css.map",
     "static/js/2.b95adeb2.chunk.js.LICENSE.txt": "/gobarber-web/static/js/2.b95adeb2.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.6559f928.js",
     "static/css/2.07a2a3e9.chunk.css",
     "static/js/2.b95adeb2.chunk.js",
-    "static/js/main.940613b9.chunk.js"
+    "static/js/main.ba5995d4.chunk.js"
   ]
 }
