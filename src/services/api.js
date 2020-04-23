@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'http://potfolio.redirectme.net',
+    baseURL: 'https://potfolio.redirectme.net',
 });
 
 export default api;
