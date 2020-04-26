@@ -2,10 +2,10 @@
 
 https://guilhermesilvacosta.github.io/gobarber-web
 
-### `View backend``
+### `View backend`
 
 https://github.com/GuilhermeSilvaCosta/gobarber-api
 
-### `View mobile``
+### `View mobile`
 
 https://github.com/GuilhermeSilvaCosta/gobarber-mobile
