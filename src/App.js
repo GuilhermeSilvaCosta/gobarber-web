@@ -4,6 +4,7 @@ import { PersistGate } from 'redux-persist/integration/react';
 import { Provider } from 'react-redux';
 import { Router } from 'react-router-dom';
 
+import Loading from 'components/Loading';
 import Routes from './routes';
 import history from './services/history';
 
@@ -16,7 +17,9 @@ function App() {
         <Provider store={store}>
             <PersistGate persistor={persistor}>
                 <Router history={history}>
-                    <Routes />
+                    <React.Suspense fallback={<Loading />}>
+                        <Routes />
+                    </React.Suspense>
                     <GlobalStyle />
                     <ToastContainer autoClose={3000} />
                 </Router>

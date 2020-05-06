@@ -25,12 +25,12 @@ export default function RouteWrapper({
     const Layout = signed ? DefaultLayout : AuthLayout;
 
     // eslint-disable-next-line react/jsx-props-no-spreading
-    return <Route {...rest} render={(props) => <Layout><Component {...props} /></Layout>} />;
+    return <Route {...rest} render={props => <Layout><Component {...props} /></Layout>} />;
 }
 
 RouteWrapper.propTypes = {
     isPrivate: PropTypes.bool,
-    component: PropTypes.oneOfType([PropTypes.element, PropTypes.func])
+    component: PropTypes.oneOfType([PropTypes.element, PropTypes.func, PropTypes.object])
         .isRequired,
 };
 
